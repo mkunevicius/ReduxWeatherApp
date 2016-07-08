@@ -1,7 +1,7 @@
 {
   "name": "redux-weather app",
   "version": "1.0.0",
-  "description": "weather forecast app on React, managing state with Redux, fetching data from openweathermap api",
+  "description": "weather forecast app on React, managing state with Redux, fetching data from openweathermap api and googlemaps api",
   "main": "index.js",
   "repository": "",
   "scripts": {
